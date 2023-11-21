@@ -1,3 +1,8 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
 .cabecalho{
    background-color: deeppink;
    color: fuchsia;
@@ -25,8 +30,9 @@
 }
 
    #caixa-boreal{
-    
+     
    }
+    
 
 
    
